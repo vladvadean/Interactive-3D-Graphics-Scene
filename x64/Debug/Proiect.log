@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(242,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(243,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(249,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(250,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(256,10): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(257,12): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(471,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Proiect.vcxproj -> C:\Users\DELL\Desktop\skull\3\PG\Proiect\x64\Debug\Proiect.exe

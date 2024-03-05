@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(250,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(251,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(257,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(258,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(264,10): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(265,12): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\skull\3\PG\Proiect\main.cpp(475,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 1821 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+libglew32d.lib(glew.obj) : warning LNK4099: PDB 'libglew32d.pdb' was not found with 'libglew32d.lib(glew.obj)' or at 'C:\Users\DELL\Desktop\skull\3\PG\Proiect\x64\Release\libglew32d.pdb'; linking object as if no debug info
+  Proiect.vcxproj -> C:\Users\DELL\Desktop\skull\3\PG\Proiect\x64\Release\Proiect.exe
