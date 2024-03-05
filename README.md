@@ -5,10 +5,7 @@
 # Photorealistic Presentation of a Scene with 3D Objects
 
 ![ss1](https://github.com/vladvadean/Interactive-3D-Graphics-Scene/assets/126804850/d009dfd2-638b-4bc1-8f7c-84ba91c65b44)
-
-
 ![ss2](https://github.com/vladvadean/Interactive-3D-Graphics-Scene/assets/126804850/dcaca4eb-bbd5-47ed-b352-e6fb76037453)
-
 ![ss3](https://github.com/vladvadean/Interactive-3D-Graphics-Scene/assets/126804850/28333c7e-0cf7-40aa-8e75-15fe807a1d41)
 ![ss4](https://github.com/vladvadean/Interactive-3D-Graphics-Scene/assets/126804850/691dde79-bde2-4a8d-8f38-a1a0594eeae6)
 ![ss5](https://github.com/vladvadean/Interactive-3D-Graphics-Scene/assets/126804850/292140bb-57cb-40c1-9068-852a55008106)
@@ -16,8 +13,6 @@
 
 
 ## Table of Contents
-
-# Table of Contents
 1. [Presentation of the Theme](#presentation-of-the-theme)
 2. [Scenario](#scenario)
 3. [Implementation Details](#implementation-details)
